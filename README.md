@@ -1,11 +1,12 @@
 
 
 ### Hey, I'm Sakthi Maheswari
-- ✨ Undergrad, studying Computer Science student at Amrita Vishwa Vidyapeetham
-- ✨ Passionate about programming and web application development
+- ✨ Computer Science Engineering Undergrad at Amrita Vishwa Vidyapeetham.
+- ✨ Passionate about programming and web application development.
 - ✨ Languages: Python3, C++, Java, JavaScript.
 - ✨ In depth knowledge in DSA and OOP.
 
+💪 *Learning and improving everyday*
 
 <br />
 
