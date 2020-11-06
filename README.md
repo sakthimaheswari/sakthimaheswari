@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://c.top4top.io/p_11004tbku0.gif?fit=1281%2C716&ssl=1" />
+
 
 ### Hey, I'm Sakthi Maheswari
 - ✨ Undergrad, studying Computer Science student at Amrita Vishwa Vidyapeetham
