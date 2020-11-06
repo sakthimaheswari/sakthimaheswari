@@ -38,7 +38,8 @@
   </a>
 
 <div/>
-  
+    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=sakthimaheswari&show_icons=true&theme=dracula&count_private=true" alt="Sakthi Maheswari's github stats" />
+    <ul align="left">
 <br/><br/>
 
 ### Contact: 
