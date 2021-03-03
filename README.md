@@ -4,7 +4,7 @@
 - ✨ Computer Science Engineering Undergrad at Amrita Vishwa Vidyapeetham.
 - ✨ Passionate about programming and web application development.
 - ✨ Languages: Python3, C++, Java, JavaScript.
-- ✨ In depth knowledge in DSA and OOP.
+- ✨ Knowledge in DSA and OOP.
 
 💪 *Learning and improving everyday*
 
